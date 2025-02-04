@@ -13,7 +13,7 @@ This project focuses on classifying geographic scene images into six distinct ca
 
 * Resized images to a uniform input size.
 
-* Applied data augmentation (e.g., flipping, rotation, normalization).
+* Applied data augmentation (e.g., flipping, rotation, normalization, etc.).
 
 2. Model Selection & Training:
 
