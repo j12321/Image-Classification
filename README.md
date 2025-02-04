@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RuHimdEP)
+# Image Classification for Geographic Scenes
+
+## Project Overview
+This project focuses on classifying geographic scene images into six distinct categories using transfer learning. The model leverages pre-trained convolutional neural networks (CNNs) such as ResNet50 to achieve high accuracy in image classification tasks.
